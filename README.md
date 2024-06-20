@@ -1,10 +1,13 @@
 <!-- ### Hi there 👋 -->
+### 👋
 
+<!--
 <div align="center">
   <a href="https://github.com/haydn9000"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=haydn9000&show_icons=true&include_all_commits=true&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydn9000&layout=compact&langs_count=7&hide=assembly&hide_progress=true&theme=onedark"/>
 </div>
+-->
 
 <!--
 <div align="center"> 
